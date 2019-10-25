@@ -1,3 +1,3 @@
 # Alitalia-sentiment-analysis
-Sentiment analysis based on tweet related Alitalia. I made some comparison with other company, like ryanair, for analyse the customers satisfaction. There is also a presentation that shows the results, but is in italian because the target was an italian meeting (you can read the graphs). 
-The script is write in R, the code is well documented in english, you don't need other explanation, just read the RSentimentAnalysis.r file
+Sentiment analysis based on tweet related Alitalia. I made some comparison with other company, like Ryanair, for analysing the customer's satisfaction. There is also a presentation that shows the results but is in Italian because the target was an Italian meeting (you can read the graphs). The script has been written in R, the code is well documented in English, you don't need other explanation, just read the RSentimentAnalysis.r file. Below a graph that shows the customer's satisfaction related to Alitalia:
+![alitalia graph](http://ferrara.link/img/AlitaliaSentimentAnalysis2019/alitaliagraph.jpg)
